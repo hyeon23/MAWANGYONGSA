@@ -77,9 +77,9 @@ Press <b><ins>ESC</ins></b> to open menu for config and map
 --------------------
 
 ## 👥 참여 인원 및 역할 분담 👥
-|[임창빈](https://github.com/CBI777) | [강동현](https://github.com/hyeon23) | [박경수](https://github.com/ABCSDFWLO) |
+|[임창빈](https://github.com/CBI777) | [박경수](https://github.com/ABCSDFWLO) | [강동현](https://github.com/hyeon23) |
 |:------------:|:------------:|:------------:|
-| <img src="https://avatars.githubusercontent.com/u/97778404?v=4" width=200px alt="임창빈"/> | <img src="https://avatars.githubusercontent.com/u/77566434?v=4" width=200px alt="강동현"/> | <img src="https://avatars.githubusercontent.com/u/76253761?v=4" width=200px alt="박경수"/> |
+| <img src="https://avatars.githubusercontent.com/u/97778404?v=4" width=200px alt="임창빈"/> | <img src="https://avatars.githubusercontent.com/u/76253761?v=4" width=200px alt="박경수"/> | <img src="https://avatars.githubusercontent.com/u/77566434?v=4" width=200px alt="강동현"/> |
 | **Team Leader** | **Follower** | **Follower** |
 | Game Client | Game Client / Designer | Designer & Dot Artist |
 | InGame | InGame | Game Design & Asset Design |
