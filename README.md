@@ -29,6 +29,11 @@ This game was created by team of four university students, using Unity with C#.
 - 팀으로써 함께 게임을 만들어간다는 것에 있어서 여러가지 충돌을 겪었습니다.
 - 생각했던 분위기의 방향, 게임의 시스템이 다르거나, 코드나 그래픽 부분이 서로 충돌하는 부분이 생기는 등, 진땀을 빼는 상황들이 많았습니다.
 - 그러나 매주마다 이루어지는 회의와 근황보고 및 체계정립을 통해서 게임의 내용과 방향성을 잡는데에 성공했습니다.
+- 
+--------------------
+
+## ✏ 기획
+
 - 마왕용사는 크게 2가지 게임에서 모티브를 따왔습니다.
 
 <img src="https://github.com/hyeon23/hyeon23/assets/77566434/c8ae282f-3ed8-4a1a-a21e-a75220e3793a" width=700>
@@ -38,10 +43,6 @@ This game was created by team of four university students, using Unity with C#.
 <img src="https://github.com/hyeon23/hyeon23/assets/77566434/eb613322-efa0-48aa-9841-00bd23e33c71" width=700>
 
 - **슬레이 더 스파이어:** 각 방들의 연결 형태를 보고 자신이 진행할 방향을 결정할 수 있는 게임 시스템을 반영했습니다.
-
---------------------
-
-## ✏ 기획
 
 본 게임은 다음과 같은 기본적인 특징을 가집니다.
 1. 한 스테이지가 일정 갯수의 방으로 이루어져 있으며, 스테이지는 총 3개가 존재.
